@@ -1,8 +1,12 @@
+body{
+  background-color: antiquewhites;
+  font-family: Arial,Helvetica,sans-serif;
+}
 h1{
   texte-align:center;
-background-color:blue;
-  color:lightpink;
-  border-style:2px;dotted;
+  color: #FF007F;
+  background-color: rgb(91, 143, 176);
+  border-style:2px
+  border-style: dotted;
   border-radius:20px;
-}
-
+  padding: 10px;
