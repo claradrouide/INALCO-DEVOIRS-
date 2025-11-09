@@ -21,7 +21,7 @@ h1 {
   display: inline-block;
   margin-top: 80px;
 }
-table, th, td {
+table,th,td {
   border: 1px solid #333;
   border-collapse: collapse;
 }
@@ -29,7 +29,7 @@ table {
   margin: 30px auto;
   width: 50%;
 }
-th, td {
+th,td {
   padding: 8px 12px;
 }
 .texte-bleu {
