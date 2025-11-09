@@ -1,12 +1,16 @@
-body{
-  background-color: antiquewhites;
-  font-family: Arial,Helvetica,sans-serif;
+body {
+  background-color: antiquewhite;  
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;              
+  margin: 0;
+  padding: 30px;
 }
-h1{
-  texte-align:center;
-  color: #FF007F;
-  background-color: rgb(91, 143, 176);
-  border-style:2px
-  border-style: dotted;
-  border-radius:20px;
-  padding: 10px;
+h1 {
+  color: #FF007F;                 
+  background-color: rgb(91, 143, 176); 
+  border: 2px dotted #FF007F;      
+  border-radius: 20px;             
+  padding: 10px 20px;              
+  display: inline-block;           
+  margin-top: 80px;               
+}
